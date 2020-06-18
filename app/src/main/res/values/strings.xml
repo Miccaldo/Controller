@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Controller</string>
+    <string name="action_connect">Połącz</string>
+    <string name="title_activity_connect">Connect</string>
+    <string name="Bt_Text">Bluetooth włączony..</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="action_settings">Settings</string>
+    <string name="searchDevices_text">Dostępne urządzenia:</string>
+    <string name="pairedDevices_text">Sparowane urządzenia:</string>
+    <string name="connectText">Połączenie: brak</string>
+    <string name="turnOff">Wyłącz</string>
+</resources>
